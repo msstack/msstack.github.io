@@ -18,6 +18,10 @@ body {
     padding-bottom: 15px;
 }
 
+.tagline {
+    background-color: gainsboro; 
+}
+
 .features-area {
     background-color: white;
     padding-top: 50px;
