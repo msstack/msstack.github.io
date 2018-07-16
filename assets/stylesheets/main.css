@@ -34,7 +34,7 @@ body {
 .feature img {
     position: relative;
     top: 15px;
-    width: 100px;
+    width: 75px;
 }
 
 .feature h4 {
@@ -49,10 +49,11 @@ body {
 
 .footer-area {
     background-color: #2A2A2A;
+    padding: 5px;
 }
 
 .footer-area p {
-    padding: 10px;
+    padding-top: 5px;
 }
 
 .github-corner {
@@ -65,4 +66,5 @@ body {
 
 header {
     z-index: 100px;
+    height: 70px;
 }
